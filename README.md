@@ -41,6 +41,7 @@ Libraries:
 
 Load libaries to the terminal as listed below:
 
+```
 import pandas as pd
 import tensorflow as tf
 import pydotplus
@@ -55,6 +56,7 @@ from sklearn.ensemble import RandomForestClassifier
 from imblearn.ensemble import BalancedRandomForestClassifier
 from IPython.display import Image
 %matplotlib inline
+```
 
 ---
 
@@ -74,11 +76,11 @@ The following is an example of how the prprogram works.
 ---
 
 ## Contributors
-
+```
 Alissa Bolla
 Andrew Mckay
 Arturo Garcidueñas
-
+```
 ---
 
 ## License

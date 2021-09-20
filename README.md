@@ -95,7 +95,7 @@ The following is an example of how the program works.
 
 ## Contributors
 
-Alissa Bolla, Andrew Mckay andArturo Garcidueñas
+Alissa Bolla, Andrew Mckay and Arturo Garcidueñas
 
 ---
 

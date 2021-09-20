@@ -72,6 +72,8 @@ The platform used to operate the bot was AWS Lambda. You will need to follow the
 3. Type Lambda on the Services search box.
 4. In the resulting Services list, click Lambda this will open the AWS Lambda console.
 
+The corresponding code is located in the 
+
 
 ### For Credit Card Fraud Prediction Model: 
 The platform used to create and run the code was Visual Studio.

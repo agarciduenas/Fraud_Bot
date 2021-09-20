@@ -64,7 +64,16 @@ from IPython.display import Image
 
 ## Installation Guide
 
+### For Chatbot 
+The platform used to operate the bot was AWS Lambda. You will need to follow the next step to acces AWS Lambda and the code.
 
+1. Open the AWS Lambda Console
+2. Sign in to the AWS Management Console with the administrator IAM user
+3. Type Lambda on the Services search box.
+4. In the resulting Services list, click Lambda this will open the AWS Lambda console.
+
+
+### For Credit Card Fraud Prediction Model 
 
 ---
 

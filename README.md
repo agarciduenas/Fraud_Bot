@@ -72,7 +72,7 @@ The platform used to operate the bot was AWS Lambda. You will need to follow the
 3. Type Lambda on the Services search box.
 4. In the resulting Services list, click Lambda this will open the AWS Lambda console.
 
-The corresponding code is located in the _chat_bot folder,
+The corresponding code is located in the _chat_bot folder.
 
 
 ### For Credit Card Fraud Prediction Model: 
@@ -80,15 +80,6 @@ The platform used to create and run the code was Visual Studio.
 (https://visualstudio.microsoft.com/)
 
 Once the program installed on your computer, open the file located in the predicting_fraud_transactions folder and run the code.
-
-
----
-
-## Examples
-
-The following is an example of how the program works.
-
-
 
 
 ---

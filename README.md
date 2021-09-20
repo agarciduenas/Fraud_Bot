@@ -3,6 +3,8 @@
 
 # Fraud_Bot
 
+About
+
 This project utilizes a “Chat-Bot” to interact with the user (customer of a bank). The user reports a fraud transaction that occurred on his/her account. The Bot will then provide a recommendation/solution for the user to take. The banking institution will collect the data generated from users input to forecast and identify future fraudulent transactions. 
 
 ---

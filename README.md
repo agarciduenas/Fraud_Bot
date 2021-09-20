@@ -64,7 +64,7 @@ from IPython.display import Image
 
 ## Installation Guide
 
-### For Chatbot 
+### For Chatbot: 
 The platform used to operate the bot was AWS Lambda. You will need to follow the next step to acces AWS Lambda and the code.
 
 1. Open the AWS Lambda Console
@@ -73,7 +73,12 @@ The platform used to operate the bot was AWS Lambda. You will need to follow the
 4. In the resulting Services list, click Lambda this will open the AWS Lambda console.
 
 
-### For Credit Card Fraud Prediction Model 
+### For Credit Card Fraud Prediction Model: 
+The platform used to create and run the code was Visual Studio.
+(https://visualstudio.microsoft.com/)
+
+Once the program installed on your computer, open the file located in the 
+
 
 ---
 

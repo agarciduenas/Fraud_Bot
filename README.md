@@ -77,7 +77,7 @@ The platform used to operate the bot was AWS Lambda. You will need to follow the
 The platform used to create and run the code was Visual Studio.
 (https://visualstudio.microsoft.com/)
 
-Once the program installed on your computer, open the file located in the 
+Once the program installed on your computer, open the file located in the predicting_fraud_transactions folder and run the code.
 
 
 ---

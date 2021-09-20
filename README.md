@@ -94,11 +94,9 @@ The following is an example of how the program works.
 ---
 
 ## Contributors
-```
-Alissa Bolla
-Andrew Mckay
-Arturo Garcidueñas
-```
+
+Alissa Bolla, Andrew Mckay andArturo Garcidueñas
+
 ---
 
 ## License

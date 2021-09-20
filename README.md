@@ -86,7 +86,7 @@ Once the program installed on your computer, open the file located in the predic
 
 ## Examples
 
-The following is an example of how the prprogram works.
+The following is an example of how the program works.
 
 
 
